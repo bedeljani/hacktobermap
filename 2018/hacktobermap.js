@@ -1571,4 +1571,10 @@ var hacktobermap = [
     latitude: 33.748550,
     longitude: -84.391502 
   },
+ {
+    name: "magnoom"
+    location: "Moscow, Russia",
+    latitude: 37.563321,
+    longitude: 55.564010
+ },
 ];
